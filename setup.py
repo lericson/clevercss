@@ -9,7 +9,7 @@ setup(
     name='CleverCSS',
     author='Armin Ronacher',
     author_email='armin.ronacher@active-4.com',
-    version='0.1.5',
+    version='0.2-spritemaps',
     url='http://sandbox.pocoo.org/clevercss/',
     py_modules=['clevercss'],
     description='funky css preprocessor dammit',
