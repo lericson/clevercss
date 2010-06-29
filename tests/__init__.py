@@ -159,7 +159,6 @@ class LineIterTestCase(TestCase):
         """))
         self.assertEqual("\n".join([s[1] for s in line_iter]),
             "aa, bb:\n    x:1")
-    
 
 if __name__ == '__main__':
     main()
